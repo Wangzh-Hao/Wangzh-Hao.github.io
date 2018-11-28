@@ -6,10 +6,19 @@
     <description>Recent content on Wangzh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
-    <lastBuildDate>Wed, 19 Aug 2015 20:29:37 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 28 Nov 2018 16:11:48 +0800</lastBuildDate>
     
 	<atom:link href="https://wangzh-hao.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Start</title>
+      <link>https://wangzh-hao.github.io/blog/2018-11/new-start/</link>
+      <pubDate>Wed, 28 Nov 2018 16:11:48 +0800</pubDate>
+      
+      <guid>https://wangzh-hao.github.io/blog/2018-11/new-start/</guid>
+      <description>启程 在很早之前就想着能够有一个自己畅所欲言的地方，花了一天半的时间总算搭建起来啦。这里将会有我的一些牢骚，一些感想，也会po些照片。Whatever，在这里放飞吧~ 接下来 接下来初步规划： 新增一个resume栏，做一份在线简历 尽量抽时间写一些保质保量的技术blog 有什么想表达的会先写下来然后发布在这，比如看完一本书或一部电影的感想 对于生活的感触也会尽量写在这里，与社交媒体相比更自由。若干年后，再回头</description>
+    </item>
     
     <item>
       <title>Moment Test</title>

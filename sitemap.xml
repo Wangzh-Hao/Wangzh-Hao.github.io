@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wangzh-hao.github.io/blog/2018-11/new-start/</loc>
+    <lastmod>2018-11-28T16:11:48+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wangzh-hao.github.io/blog/</loc>
     <lastmod>2018-09-13T22:31:21+08:00</lastmod>
   </url>
@@ -23,6 +28,12 @@
   </url>
   
   <url>
+    <loc>https://wangzh-hao.github.io/tags/blog/</loc>
+    <lastmod>2018-11-28T16:11:48+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://wangzh-hao.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -34,6 +45,7 @@
   
   <url>
     <loc>https://wangzh-hao.github.io/tags/</loc>
+    <lastmod>2018-11-28T16:11:48+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -45,7 +57,7 @@
   
   <url>
     <loc>https://wangzh-hao.github.io/</loc>
-    <lastmod>2015-08-19T20:29:37-07:00</lastmod>
+    <lastmod>2018-11-28T16:11:48+08:00</lastmod>
     <priority>0</priority>
   </url>
   
