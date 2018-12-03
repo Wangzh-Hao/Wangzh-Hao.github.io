@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wangzh-hao.github.io/blog/2018-11/docker%E5%88%9D%E6%8E%A2ubuntu14.04%E4%B8%8Adocker%E7%9A%84%E5%AE%89%E8%A3%85/</loc>
+    <lastmod>2018-11-30T17:28:41+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wangzh-hao.github.io/blog/2018-11/new-start/</loc>
     <lastmod>2018-11-28T16:11:48+08:00</lastmod>
   </url>
@@ -39,6 +44,12 @@
   </url>
   
   <url>
+    <loc>https://wangzh-hao.github.io/tags/docker/</loc>
+    <lastmod>2018-11-30T17:28:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://wangzh-hao.github.io/series/</loc>
     <priority>0</priority>
   </url>
@@ -57,7 +68,13 @@
   
   <url>
     <loc>https://wangzh-hao.github.io/</loc>
-    <lastmod>2018-11-28T16:11:48+08:00</lastmod>
+    <lastmod>2018-11-30T17:28:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wangzh-hao.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2018-11-30T17:28:41+08:00</lastmod>
     <priority>0</priority>
   </url>
   

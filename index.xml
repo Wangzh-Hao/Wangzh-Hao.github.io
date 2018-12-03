@@ -6,10 +6,19 @@
     <description>Recent content on Wangzh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
-    <lastBuildDate>Wed, 28 Nov 2018 16:11:48 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Nov 2018 17:28:41 +0800</lastBuildDate>
     
 	<atom:link href="https://wangzh-hao.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Docker初探——Ubuntu14.04上Docker的安装</title>
+      <link>https://wangzh-hao.github.io/blog/2018-11/docker%E5%88%9D%E6%8E%A2ubuntu14.04%E4%B8%8Adocker%E7%9A%84%E5%AE%89%E8%A3%85/</link>
+      <pubDate>Fri, 30 Nov 2018 17:28:41 +0800</pubDate>
+      
+      <guid>https://wangzh-hao.github.io/blog/2018-11/docker%E5%88%9D%E6%8E%A2ubuntu14.04%E4%B8%8Adocker%E7%9A%84%E5%AE%89%E8%A3%85/</guid>
+      <description>一直很好奇Docker到底是一个什么工具，还记得实习的时候，部门经理有个任务就是安装Docker，熟悉Docker基本概念与使用。后来我从后端转前端，这事儿就耽搁了下来。恰逢最近公司有业务场景会接触使用Docker，所以趁着好奇心还在就来探索一下。 了解概念 没了解前，我以为Docker是一个能把几台电脑连起来相互使用运行环境和资源的工具，现在觉得自己真是错得离谱。 某种意义上，可以把Docker看成简</description>
+    </item>
     
     <item>
       <title>New Start</title>
