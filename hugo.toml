@@ -57,8 +57,6 @@ defaultContentLanguageInSubdir = false
   # social links
   weibo = "//weibo.com/u/1929957130"
   github = "//github.com/Wangzh-Hao"
-  instagram = "//instagram.com/wangzhihaooo"
-  email = "zhihaowang_wzh@163.com"
 
   # slides
   slidesDirPath = "themes/AllinOne/static/img/header-slides"
