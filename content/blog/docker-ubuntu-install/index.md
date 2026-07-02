@@ -128,7 +128,7 @@ $ sudo systemctl restart docker
 那么我解决这个问题的办法就是：
 
 ```shell
-$ echo "DOCKER_OPTS=\"\$DOCKER_OPTS --registry-mirror=https://ebrzfw28.mirror.aliyuncs.com\"" | sudo tee -a /etc/default/docker
+$ echo "DOCKER_OPTS=\"$DOCKER_OPTS --registry-mirror=https://ebrzfw28.mirror.aliyuncs.com\"" | sudo tee -a /etc/default/docker
 ```
 
 这个等价于上面的那几个命令，当你是14.04以下的时候，就运行这条。
