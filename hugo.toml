@@ -33,7 +33,6 @@ Paginate = 3
     url = "about/"
 
 [params]
-  faviconfile = "img/zheng.png"
   description = "Personal website of Zhihao"
   welcome_head = "Hello, World!"
   latestpostscount = 5
