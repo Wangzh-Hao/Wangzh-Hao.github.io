@@ -1,0 +1,55 @@
+baseURL = "https://wangzh-hao.github.io/"
+locale = "zh-cn"
+title = "Zhihao"
+
+theme = "AllinOne"
+
+builddrafts = false
+canonifyurls = true
+enableEmoji = true
+hasCJKLanguage = true
+summaryLength = 200
+Paginate = 3
+
+[permalinks]
+  blog = "blog/:year-:month/:slug/"
+
+[taxonomies]
+  tag = "tags"
+  series = "series"
+  category = "categories"
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    weight = -120
+    identifier = "blog"
+    url = "blog/"
+
+  [[menu.main]]
+    name = "About"
+    weight = -110
+    identifier = "about"
+    url = "about/"
+
+[params]
+  faviconfile = "img/zheng.png"
+  description = "Personal website of Zhihao"
+  welcome_head = "Hello, World!"
+  latestpostscount = 5
+  bloggroupby = 'month'
+  dateform = "Jan 2, 2006"
+  dateformfull = "2006-01-02  Monday  15:04:05"
+  noshowreadtime = false
+
+  # slides
+  slidesDirPath = "themes/AllinOne/static/img/header-slides"
+  slidesDirPathURL = "img/header-slides"
+
+  # highlighting
+  highlightjs = true
+
+  # latex
+  katex = true
+
+  include_rss = true
