@@ -29,7 +29,7 @@ defaultContentLanguageInSubdir = false
     contentDir = "content"
     [languages.en.params]
       author = "Wangzh"
-      description = "Web Front-end Developer."
+      description = "Web Developer"
       welcome_head = "Hello, World!"
       welcome_word = "~ Travelers are like floating clouds, old friends are like the setting sun ~"
 
