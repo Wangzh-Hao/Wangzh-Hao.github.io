@@ -1,5 +1,4 @@
 baseURL = "https://wangzh-hao.github.io/"
-locale = "zh-cn"
 title = "Wangzh"
 
 theme = "AllinOne"
@@ -11,6 +10,9 @@ hasCJKLanguage = true
 summaryLength = 200
 Paginate = 3
 
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
 [permalinks]
   blog = "blog/:year-:month/:slug/"
 
@@ -19,32 +21,33 @@ Paginate = 3
   series = "series"
   category = "categories"
 
-[menu]
-  [[menu.main]]
-    name = "Blog"
-    weight = -120
-    identifier = "blog"
-    url = "blog/"
+[languages]
+  [languages.en]
+    locale = "en"
+    label = "English"
+    weight = 1
+    contentDir = "content"
+    [languages.en.params]
+      author = "Wangzh"
+      description = "Web Front-end Developer."
+      welcome_head = "Hello, World!"
+      welcome_word = "~ Travelers are like floating clouds, old friends are like the setting sun ~"
 
-  [[menu.main]]
-    name = "Thinking"
-    weight = -115
-    identifier = "thinking"
-    url = "thinking/"
-
-  [[menu.main]]
-    name = "About"
-    weight = -110
-    identifier = "about"
-    url = "about/"
+  [languages.zh]
+    locale = "zh-cn"
+    label = "中文"
+    weight = 2
+    contentDir = "content/zh"
+    [languages.zh.params]
+      author = "Wangzh"
+      description = "Web Front-end Developer. 佛系拖延症患者."
+      welcome_head = "Hello, World!"
+      welcome_word = "~ 浮云游子意 落日故人情 ~"
 
 [params]
-  author = "Wangzh"
-  description = "Web Front-end Developer. 佛系拖延症患者."
+  i18n_flags = true
   avatar = "img/profile.jpg"
   faviconfile = "img/profile.jpg"
-  welcome_head = "Hello, World!"
-  welcome_word = "~ 浮云游子意 落日故人情 ~"
   latestpostscount = 5
   bloggroupby = 'month'
   dateform = "Jan 2, 2006"
@@ -68,3 +71,22 @@ Paginate = 3
   katex = true
 
   include_rss = true
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    weight = -120
+    identifier = "blog"
+    url = "blog/"
+
+  [[menu.main]]
+    name = "Thinking"
+    weight = -115
+    identifier = "thinking"
+    url = "thinking/"
+
+  [[menu.main]]
+    name = "About"
+    weight = -110
+    identifier = "about"
+    url = "about/"

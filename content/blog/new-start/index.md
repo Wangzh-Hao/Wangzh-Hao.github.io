@@ -8,18 +8,18 @@ tags: ["blog"]
 series: []
 categories: []
 toc: false
-summary: "启程——在很早之前就想着能够有一个自己畅所欲言的地方。"
+summary: "The journey begins — I've long wanted a place where I could freely express myself."
 ---
 
-## 启程
+## The Journey Begins
 
-在很早之前就想着能够有一个自己畅所欲言的地方，花了一天半的时间总算搭建起来啦。这里将会有我的一些牢骚，一些感想，也会po些照片。Whatever，在这里放飞吧~
+I've long wanted a place where I could freely express myself. After a day and a half of effort, it's finally up and running. Here I'll share my thoughts, my feelings, and maybe post some photos. Whatever — let's set our spirits free here.
 
-## 接下来
+## What's Next
 
-接下来初步规划：
+Here's my initial plan going forward:
 
-- 新增一个 `resume栏`，做一份在线简历
-- 尽量抽时间写一些保质保量的 `技术blog`
-- 有什么 `想表达的` 会先写下来然后发布在这，比如看完一本书或一部电影的感想
-- 对于 `生活的感触` 也会尽量写在这里，与社交媒体相比更自由。若干年后，再回头看，岂不美哉
+- Add a `Resume` section and create an online CV
+- Find time to write quality `technical blog posts`
+- Write down `whatever I want to express` and publish it here — impressions after reading a book or watching a movie, for instance
+- Record `my reflections on life` here as well. It's more freeing than social media. Years from now, looking back — wouldn't that be wonderful?

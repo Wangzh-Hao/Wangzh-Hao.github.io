@@ -8,7 +8,7 @@ tags: ["hello", "blog"]
 series: []
 categories: []
 toc: true
-summary: "My very first blog post."
+summary: "我的第一个博客。"
 ---
 
-Welcome to my personal website! This is the very first article.
+欢迎来到我的个人网站！这是第一篇文章。
